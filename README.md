@@ -1,0 +1,1 @@
+# Practice of HTML&CSS static page development
